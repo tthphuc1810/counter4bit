@@ -1,0 +1,101 @@
+m255
+K4
+z2
+13
+cModel Technology
+dC:/Users/DELL/Desktop/thuchanhModelSIm
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+Ecounter4b
+Z0 w1720528056
+Z1 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 @_jbHPR7i^Jh?`2fDCO`m3
+Z3 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z5 dC:/Users/DELL/Desktop/QuestaSim
+Z6 8C:\Users\DELL\Desktop\QuestaSim\counter4b.vhd
+Z7 FC:\Users\DELL\Desktop\QuestaSim\counter4b.vhd
+l0
+L5
+VlVL3;<oXgnl5cIF]9HU;?0
+Z8 OL;C;10.2c;57
+32
+Z9 !s110 1720528134
+Z10 !s108 1720528134.729000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\DELL\Desktop\QuestaSim\counter4b.vhd|
+Z12 !s107 C:\Users\DELL\Desktop\QuestaSim\counter4b.vhd|
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+!s100 F42KbAU;E=CegB5l:?T@B2
+!i10b 1
+!i111 0
+Acounter4b_bev
+R1
+R2
+R3
+R4
+DEx4 work 9 counter4b 0 22 lVL3;<oXgnl5cIF]9HU;?0
+l14
+L12
+VmKQUj^_N2a4lQSEJEU]bP2
+R8
+32
+R9
+R10
+R11
+R12
+R13
+R14
+!s100 l`g4mXA@WPPiXzLIHL7XF3
+!i10b 1
+!i111 0
+Ecounter4b_tb
+Z15 w1720528044
+Z16 DPx4 ieee 11 numeric_std 0 22 WES[o8HS0jHV[MIXQk2Ha1
+R3
+R4
+R5
+Z17 8C:\Users\DELL\Desktop\QuestaSim\counter4b_tb.vhd
+Z18 FC:\Users\DELL\Desktop\QuestaSim\counter4b_tb.vhd
+l0
+L6
+VI7lCZ5N<3Oi?XGKL?7fFA2
+R8
+32
+R9
+Z19 !s108 1720528134.852000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\DELL\Desktop\QuestaSim\counter4b_tb.vhd|
+Z21 !s107 C:\Users\DELL\Desktop\QuestaSim\counter4b_tb.vhd|
+R13
+R14
+!s100 :A2i[RkGOA52G0V9f[G;e0
+!i10b 1
+!i111 0
+Acounter4b_tb_bev
+R16
+R3
+R4
+DEx4 work 12 counter4b_tb 0 22 I7lCZ5N<3Oi?XGKL?7fFA2
+l24
+L9
+VEKbLb?bz7beADbmXOM<I31
+!s100 [d6^jNJe_M5IcQTZ0=RfF1
+R8
+32
+R9
+R19
+R20
+R21
+R13
+R14
+!i10b 1
+!i111 0
+Tcounter4b_tb_opt
+!s110 1720528183
+VkXhOkY>Mh:>59lZLDAigm2
+04 12 16 work counter4b_tb counter4b_tb_bev 1
+o+acc
+ncounter4b_tb_opt
+OL;O;10.2c;57

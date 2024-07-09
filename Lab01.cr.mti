@@ -1,0 +1,20 @@
+C:/Users/DELL/Desktop/QuestaSim/counter4b_tb.vhd {1 {vcom -work work -2002 -explicit -vopt {C:\Users\DELL\Desktop\QuestaSim\counter4b_tb.vhd}
+QuestaSim-64 vcom 10.2c Compiler 2013.07 Jul 19 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity counter4b_tb
+-- Compiling architecture counter4b_tb_bev of counter4b_tb
+
+} {} {}} C:/Users/DELL/Desktop/QuestaSim/counter4b.vhd {1 {vcom -work work -2002 -explicit -vopt {C:\Users\DELL\Desktop\QuestaSim\counter4b.vhd}
+QuestaSim-64 vcom 10.2c Compiler 2013.07 Jul 19 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter4b
+-- Compiling architecture counter4b_bev of counter4b
+
+} {} {}}
